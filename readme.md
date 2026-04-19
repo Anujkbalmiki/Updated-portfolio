@@ -84,6 +84,6 @@ To deploy your own fork:
 
 **Anuj Kumar Balmiki**  
 📧 anujkbalmiki@gmail.com  
-💼 [linkedin.com/in/anujbalmiki](https://linkedin.com/in/anujbalmiki)  
+💼 [linkedin.com/in/anujbalmiki](https://www.linkedin.com/in/anuj-balmiki-805277230/)  
 🐙 [github.com/Anujkbalmiki](https://github.com/Anujkbalmiki)  
 📍 Mumbai / Navi Mumbai, India 
